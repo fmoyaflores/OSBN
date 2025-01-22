@@ -8,7 +8,8 @@ _A Distributed, Community-Driven Approach to Bioreactor Innovation_
 2. [Barriers to Success and Mitigation Strategies](#barriers-to-success-and-mitigation-strategies)
 3. [Differentiation from Adjacent Approaches](#differentiation-from-adjacent-approaches)
 4. [Part II: Budget (Updated)](#part-ii-budget-updated)
-    - [Detailed Budget Breakdown](#detailed-budget-breakdown)
+    - [Detailed Budget Breakdown Option A](#detailed-budget-breakdown-option-a)
+    - [Detailed Budget Breakdown Option B](#detailed-budget-breakdown-option-b)
 5. [Why This Project Matters](#why-this-project-matters)
 6. [Subject Matter Experts' Q&A](#subject-matter-experts-qa)
     - [1. Anticipated Specifications](#1-anticipated-specifications)
@@ -85,7 +86,11 @@ The initiative embodies Astera’s ethos of supporting public-focused innovators
 
 ## Part II: Budget (Updated)
 
-# Streamlined Budget (Total: $500,000)
+**Option A: Streamlined Budget: $500,000**
+
+### Detailed Budget Breakdown - Option A
+
+Below is a breakdown of how a $895,000 budget could cover core infrastructure. Any advanced features or extensive technical support would require additional resources or contributions from the user community.
 
 | **Category**                           | **Budget Allocation** |
 |---------------------------------------|-----------------------|
@@ -93,13 +98,12 @@ The initiative embodies Astera’s ethos of supporting public-focused innovators
 | **2. Open-Source Infrastructure**     | $60,000              |
 | **3. Publishing (Blueprints, Data)**  | $60,000              |
 | **4. Pilot Deployments**             | $150,000             |
-| **Total**                             | $500,000             |
+| **5. Personnel**                     | $295,000             |
+| **Total**                             | $895,000             |
 
 ---
 
-## Budget Details
-
-### 1. Bioreactor Development – $230,000
+1. **Bioreactor Development – $230,000
 - **Modular Bioreactor Design & Prototyping**  
   - Prototyping materials and basic lab consumables  
   - Iterative testing with small-scale CFD simulations  
@@ -109,35 +113,40 @@ The initiative embodies Astera’s ethos of supporting public-focused innovators
   - Limited validation studies of critical performance parameters  
   - Development of simplified SOPs and risk assessments
 
-### 2. Open-Source Infrastructure – $60,000
+2. **Open-Source Infrastructure – $60,000
 - **Open-Source Repository Development**  
   - Platform creation for hosting blueprints, protocols, and data  
   - Server, maintenance, and basic user support (e.g., helpdesk)  
 
-> **Note:** Funding covers core infrastructure only; any advanced features or extensive technical support would require additional resources or contributions from the user community.
-
-### 3. Publishing (Blueprints, Datasets) – $60,000
+3. **Publishing (Blueprints, Datasets) – $60,000
 - **Documentation & Dissemination**  
   - Preparing accessible blueprints for modular components  
   - Standardizing and curating key datasets for reproducibility  
   - Copyediting, design services, and minor technical consulting for documentation
 
-### 4. Pilot Deployments – $150,000
+4. **Pilot Deployments – $150,000
 - **Implementation in Diverse Settings**  
   - Limited hardware & shipping for small-scale pilot installations (e.g., 2–3 pilot sites)  
   - Minimal travel and logistics for on-site coordination (optional, where feasible)
 
 - **Training, Outreach & Community Building**  
   - Basic training materials (online videos, manuals, etc.)  
-  - Virtual workshops or limited in-person support for each pilot site  
+  - Virtual workshops or limited in-person support for each pilot site
+ 
+5. **Personnel – $295,000**  
+   - **Multidisciplinary Team Salaries ($295,000)**  
+     - _Project Manager ($100,000)_: Oversees timelines, deliverables, and budgets.  
+     - _Mechanical/Chemical Engineer ($75,000)_: Designs and tests modular components.  
+     - _Bioprocess Scientist ($70,000)_: Validates bioreactor performance.  
+     - _IoT Specialist ($50,000)_: Develops remote monitoring and control systems.
 
 ---
 
-**Extended Estimated Budget: $1,995,000**
+**Option B: Extended Estimated Budget: $1,995,000**
 
-### Detailed Budget Breakdown
+### Detailed Budget Breakdown - Option B
 
-Below is a more granular breakdown of how the $1,995,000 budget will be allocated across key project areas.
+Below is an extended version of how a $1,995,000 budget can be allocated across key project areas.
 
 | **Category**                      | **Budget Allocation** |
 |----------------------------------|-----------------------|
