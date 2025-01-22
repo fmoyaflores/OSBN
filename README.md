@@ -40,7 +40,7 @@ OSBN envisions a world where biomanufacturing serves as a catalyst for global eq
 - Empower underserved communities with affordable, locally adaptable bioreactors.  
 - Establish a global network of decentralized hubs driving region-specific innovation and addressing local challenges.
 
-Aligned with Astera’s mission, OSBN focuses on creating public goods that enhance human flourishing through open and collaborative innovation. The initiative’s open-first approach ensures that its outputs—including blueprints, datasets, and protocols—are freely available and reusable by others, fostering a ripple effect of progress across various fields. By enabling rapid prototyping and GMP-compliant manufacturing, OSBN positions itself at the intersection of open-source translational science and transformative societal impact.
+Aligned with the organization’s mission, OSBN focuses on creating public goods that enhance human flourishing through open and collaborative innovation. The initiative’s open-first approach ensures that its outputs—including blueprints, datasets, and protocols—are freely available and reusable by others, fostering a ripple effect of progress across various fields. By enabling rapid prototyping and GMP-compliant manufacturing, OSBN positions itself at the intersection of open-source translational science and transformative societal impact.
 
 ### Deliverables
 
@@ -80,7 +80,7 @@ By the end of the one-year residency, OSBN will deliver:
 
 Unlike proprietary systems, OSBN emphasizes openness and adaptability, providing an alternative to costly, closed bioreactor platforms. By merging GMP compliance with flexibility for experimental research, OSBN addresses a crucial gap in the market, encouraging broader participation and speeding innovation in LBP production.
 
-The initiative embodies Astera’s ethos of supporting public-focused innovators whose work fills gaps neither government nor markets adequately address. OSBN reflects Astera’s belief in the transformative power of open, distributed systems to reconstruct the machinery of science for a prosperous future.
+The initiative embodies the organization’s ethos of supporting public-focused innovators whose work fills gaps neither government nor markets adequately address. OSBN reflects the organization’s belief in the transformative power of open, distributed systems to reconstruct the machinery of science for a prosperous future.
 
 ---
 
@@ -196,13 +196,13 @@ Below is an extended version of how a $1,995,000, multi-year budget can be alloc
 
 ## Why This Project Matters
 
-This project aligns with Astera’s mission by creating public goods that accelerate scientific progress and promote global equity. OSBN addresses essential gaps in biomanufacturing, unlocking innovations that proprietary systems cannot achieve. By democratizing LBP production, OSBN provides a scalable solution to challenges in healthcare, agriculture, and environmental restoration—empowering communities worldwide and fostering global collaboration.
+This project aligns with the organization’s mission by creating public goods that accelerate scientific progress and promote global equity. OSBN addresses essential gaps in biomanufacturing, unlocking innovations that proprietary systems cannot achieve. By democratizing LBP production, OSBN provides a scalable solution to challenges in healthcare, agriculture, and environmental restoration—empowering communities worldwide and fostering global collaboration.
 
 ---
 
 ## Subject Matter Experts' Q&A
 
-Below are detailed responses to follow-up questions from Astera Residency Subject Matter Experts.
+Below are detailed responses to follow-up questions from the organization Residency Subject Matter Experts.
 
 ### 1. Anticipated Specifications
 
@@ -244,7 +244,7 @@ The proposed modular bioreactor system transforms accessibility, scalability, an
 
 **Answer:**  
 1. **Stanford University Microbiome Therapies Initiative (MITI):** Specializing in live biotherapeutic products.  
-2. **Astera Institute Residents:** Promoting cross-pollination with innovation-focused residents.  
+2. **the organization Institute Residents:** Promoting cross-pollination with innovation-focused residents.  
 3. **Fundacion Ciencia & Vida (Chile):** Focusing on microbial community assembly in environmental remediation.  
 4. **Carbon 3D Printing:** Aiding with cutting-edge material science for prototyping.  
 5. **NASA Ames:** Exploring biomanufacturing solutions for space applications.
